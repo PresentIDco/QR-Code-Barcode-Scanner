@@ -1,5 +1,8 @@
 ## QR-Code & Barcode Scanner:
 PresentID QR-Code & Barcode scanner API can scan both QR code and barcode.
+![4949504 1](https://user-images.githubusercontent.com/63470748/119660294-551dc500-be44-11eb-95a4-10b1590aefb4.png)
+
+
 **Input:**
 - Image file
 - Image URL link
@@ -39,3 +42,5 @@ PresentID QR-Code & Barcode scanner API can scan both QR code and barcode.
 - Send data via Base64 or an image URL or an image file.
 - Image size should not exceed 8 MB.
 - Also, the images should not be larger than 5000 pixels and smaller than 50 pixels.
+## Free try in RapidAPI
+https://rapidapi.com/PresentID/api/face-enroll1
