@@ -43,4 +43,4 @@ PresentID QR-Code & Barcode scanner API can scan both QR code and barcode.
 - Image size should not exceed 8 MB.
 - Also, the images should not be larger than 5000 pixels and smaller than 50 pixels.
 ## Free try in RapidAPI
-https://rapidapi.com/PresentID/api/face-enroll1
+https://rapidapi.com/PresentID/api/qr-code-and-barcode-scanner
