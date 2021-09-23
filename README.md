@@ -16,7 +16,7 @@ PresentID QR-Code & Barcode scanner API can scan both QR code and barcode.
 - Field value
 - Code area
 
-**Ability & Potentials:**
+**Features:**
 - Accuracy 100%.
 - Less than 1.5 milliseconds.
 - Types of QR codes such as contacts, plain text, links, events, etc.
