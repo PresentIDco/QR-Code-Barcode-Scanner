@@ -1,6 +1,5 @@
 ## QR-Code & Barcode Scanner:
 PresentID QR-Code & Barcode scanner API can scan both QR code and barcode.
-![4949504 1](https://user-images.githubusercontent.com/63470748/119660294-551dc500-be44-11eb-95a4-10b1590aefb4.png)
 
 
 **Input:**
